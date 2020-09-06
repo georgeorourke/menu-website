@@ -1,0 +1,756 @@
+{
+  "Week 1": {
+    "Monday": {
+      "Lunch": {
+        "Soup": "Golden Vegetable",
+        "Mains": [
+          "Plant Based Nuggets + Sweet Chilli Sauce",
+          "Mexican Bean and Vegetable Wrap",
+          "Cod Wrap"
+        ],
+        "Sides": [
+          "Steak Cut Chips",
+          "Peas",
+          "Cauliflower"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Broccoli Bhajis",
+          "Spinach and Ricotta Cannelloni",
+          "Chicken and Leek Pie",
+          "Pork and Paprika Goulash"
+        ],
+        "Sides": [
+          "Mashed Potato",
+          "Rice",
+          "Carrots",
+          "Green Beans"
+        ],
+        "Dessert": "Eve's Pudding"
+      }
+    },
+    "Tuesday": {
+      "Lunch": {
+        "Soup": "Tomato and Basil",
+        "Mains": [
+          "Green Thai Vegetable Curry",
+          "BBQ Pulled Pork in Brioche Hot Dog Bun",
+          "Buffalo Chicken Thighs"
+        ],
+        "Sides": [
+          "Rice",
+          "Sweetcorn"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Tandoori Chicken Breast",
+          "Singapore Noodles with Crispy Tofu",
+          "Chestnut Mushroom Steak",
+          "Smoked Salmon Conchilglie Pasta"
+        ],
+        "Sides": [
+          "Coriander and Lime Roast Potatoes",
+          "Country Mixed Vegetables",
+          "Peas"
+        ],
+        "Dessert": "Lemon Cheesecake"
+      }
+    },
+    "Wednesday": {
+      "Lunch": {
+        "Soup": "Leek and Potato",
+        "Mains": [
+          "Penne Carbonara",
+          "Cauliflower, Mushroom and Red Kidney Bean Chilli",
+          "Beef fajitas"
+        ],
+        "Sides": [
+          "Potato wedges",
+          "Corn Mexicana",
+          "Sugar Snap Peas"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Macaroni Cheese",
+          "Soya pieces and Miso Green Beans",
+          "Haddock with Citrus and Herb Butter",
+          "Thai Pork Meatballs"
+        ],
+        "Sides": [
+          "Coconut rice",
+          "Moroccan couscous",
+          "Courgettes",
+          "Carrots"
+        ],
+        "Dessert": "Chocolate Fudge Cake  "
+      }
+    },
+    "Thursday": {
+      "Lunch": {
+        "Soup": "Green Pea, Garlic and Ginger",
+        "Mains": [
+          "Butternut Squash and Edamame Bean Curry",
+          "Vegetable Samosas",
+          "Beef burger"
+        ],
+        "Sides": [
+          "Garlic and coriander naan",
+          "Sweet potato fries",
+          "Broccoli + Corn"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Chicken korma",
+          "Gnocchi with broccoli pesto",
+          "Vegetable risoto stuffed red pepper",
+          "Szechuan Tiger Prawns"
+        ],
+        "Sides": [
+          "Green beans and cherry tomatoes",
+          "Potato wedges",
+          "Rice",
+          "Sugar snap peas"
+        ],
+        "Dessert": "Pear and mixed berry crumble"
+      }
+    },
+    "Friday": {
+      "Lunch": {
+        "Soup": "Roasted Red Pepper and Tomato",
+        "Mains": [
+          "Pulled Cajun Chicken Tacos",
+          "Breaded Haddock Fillet",
+          "Hoisin Mock-Duck Wrap"
+        ],
+        "Sides": [
+          "Steak Cut Chips",
+          "Peas",
+          "Carrots"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Cha Siu Pork Loin",
+          "Beetroot, Spinach and Goat’s Cheese Filo Parcel",
+          "Aubergine Schnitzel with Katsu Sauce",
+          "Beef Lasagne"
+        ],
+        "Sides": [
+          "Carrots, Beans and Broccoli medley",
+          "Broccoli and cauliflower",
+          "Noodles"
+        ],
+        "Dessert": "Sticky Toffee and Date Pudding"
+      }
+    },
+    "Saturday": {
+      "Lunch": {
+        "Soup": "Carrot and Coriander",
+        "Mains": [
+          "Spinach and Sweet Potato Lentil Dhal",
+          "Plant Based Burger",
+          "Chicken Tikka Masala"
+        ],
+        "Sides": [
+          "Potato Wedges",
+          "Rice",
+          "Sweetcorn"
+        ],
+        "Dessert": "Blueberry Muffin"
+      },
+      "Dinner": null
+    },
+    "Sunday": {
+      "Lunch": {
+        "Soup": "Red Lentil and Tomato",
+        "Mains": [
+          "Mushroom and Tarragon Carbonara",
+          "Butternut Squash, Cranberry and Goat Cheese Wellington",
+          "Chicken Chasseur"
+        ],
+        "Sides": [
+          "Roast Potatoes",
+          "Carrots and Parsnips",
+          "Sautéed greens"
+        ],
+        "Dessert": "Caramel Shortcake"
+      },
+      "Dinner": null
+    }
+  },
+  "Week 2": {
+    "Monday": {
+      "Lunch": {
+        "Soup": "Leek and Mushroom",
+        "Mains": [
+          "Tomato and Chickpea Pie",
+          "Tomato, Red Pesto and Mozzarella Pizza",
+          "Screaming Hot Chicken"
+        ],
+        "Sides": [
+          "Steak Cut Chips",
+          "Green Beans",
+          "Sweetcorn"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Shepherd’s Pie",
+          "Prawn and Chorizo Jambalaya",
+          "Vegetarian Chicken Curry",
+          "Gnocchi with Tomato, Spinach, Mushroom and Ricotta"
+        ],
+        "Sides": [
+          "Rice",
+          "Carrots",
+          "Broccoli"
+        ],
+        "Dessert": "Chocolate Mousse"
+      }
+    },
+    "Tuesday": {
+      "Lunch": {
+        "Soup": "Broccoli",
+        "Mains": [
+          "Coconut, Spinach and Aubergine Curry",
+          "Beef and Mozzarella Pasta Bake",
+          "Falafel and Naan Open Burger with Pepper"
+        ],
+        "Sides": [
+          "Sugar Snap Peas",
+          "Mixed Vegetables",
+          "Potato Saag Aloo"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Mushroom Stroganoff",
+          "Chicken Bacon and Mushroom Tartiflette",
+          "Steak Pie",
+          "Houmous, Sun-Dried Tomato and Olive Pinwheel"
+        ],
+        "Sides": [
+          "Mashed Potato",
+          "Rice",
+          "Carrots",
+          "Courgettes"
+        ],
+        "Dessert": "Banoffee Pie"
+      }
+    },
+    "Wednesday": {
+      "Lunch": {
+        "Soup": "Sweet Potato and Coconut",
+        "Mains": [
+          "Spinach and Sweet Potato Quiche",
+          "Vegan Mac and Cheese",
+          "Moroccan Meatballs"
+        ],
+        "Sides": [
+          "Sweetcorn",
+          "Peas",
+          "Couscous"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Pad Thai",
+          "Veggie Kiev",
+          "Coley with Florentine Sauce",
+          "Teriyaki Chicken Fillet"
+        ],
+        "Sides": [
+          "Rice",
+          "Potato Wedges",
+          "Baby Corn",
+          "Broccoli"
+        ],
+        "Dessert": "Lemon Syrup Sponge"
+      }
+    },
+    "Thursday": {
+      "Lunch": {
+        "Soup": "Italian Vegetable",
+        "Mains": [
+          "Moroccan Goat’s Cheese and Squash Wrap",
+          "Sausage Roll",
+          "Vegan Chilli Nachos"
+        ],
+        "Sides": [
+          "Herb Diced Potatoes",
+          "Carrots",
+          "Green Beans"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Chicken Kiev",
+          "Spinach and Ricotta Lasagne",
+          "Pork Loin with Plum Sauce",
+          "Edamame Bean, Asparagus and Garden Pea Risotto"
+        ],
+        "Sides": [
+          "Lyonnaise Potatoes",
+          "Cauliflower",
+          "Seasonal Greens"
+        ],
+        "Dessert": "Apple and Caramel Crumble"
+      }
+    },
+    "Friday": {
+      "Lunch": {
+        "Soup": "Tarka Dal",
+        "Mains": [
+          "Broccoli Noodles",
+          "Chinese BBQ Spare Ribs",
+          "Scampi"
+        ],
+        "Sides": [
+          "Steak Cut Chips",
+          "Peas",
+          "Broccoli"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Crusted Hake Loin",
+          "Mediterranean Vegetable Pasta",
+          "Beef Sloppy Giseppe",
+          "Red Thai Curry with Butternut Squash, Spinach and Chickpea"
+        ],
+        "Sides": [
+          "Spinach",
+          "Rice",
+          "Mixed Vegetables",
+          "Chapati"
+        ],
+        "Dessert": "White Chocolate and Mixed Berry Croissant Pudding"
+      }
+    },
+    "Saturday": {
+      "Lunch": {
+        "Soup": "Tomato and Basil",
+        "Mains": [
+          "Puy Lentil Bolognese",
+          "Margarita Pizza",
+          "Pepperoni Pizza"
+        ],
+        "Sides": [
+          "Herb Dice Potatoes",
+          "Spaghetti",
+          "Sweetcorn and Carrots"
+        ],
+        "Dessert": "Ring Doughnuts"
+      },
+      "Dinner": null
+    },
+    "Sunday": {
+      "Lunch": {
+        "Soup": "Sweetcorn and Noodle",
+        "Mains": [
+          "Cajun Roast Cauliflower with BBQ Beans",
+          "Aubergine Parmigiana",
+          "Braised Steak"
+        ],
+        "Sides": [
+          "Roast Potatoes",
+          "Red Cabbage",
+          "Yorkshire Pudding",
+          "Carrot and Parsnip"
+        ],
+        "Dessert": null
+      },
+      "Dinner": null
+    }
+  },
+  "Week 3": {
+    "Monday": {
+      "Lunch": {
+        "Soup": "Golden Vegetable",
+        "Mains": [
+          "Plant Based Nuggets",
+          "Spinach and Ricotta Tortellini",
+          "Piri Piri Chicken Leg"
+        ],
+        "Sides": [
+          "Mini potato rosti bites",
+          "Green Beans",
+          "Sweetcorn"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Butternut Squash and Goat’s Cheese Filo Parcel",
+          "Beef Stroganoff",
+          "Chestnut Mushroom Steak",
+          "Spicy Chorizo and Pepper Pasta Bake"
+        ],
+        "Sides": [
+          "Baby Potatoes",
+          "Rice",
+          "Carrots",
+          "Spinach"
+        ],
+        "Dessert": "Black Forest Gateau"
+      }
+    },
+    "Tuesday": {
+      "Lunch": {
+        "Soup": "Tomato and Basil",
+        "Mains": [
+          "Tomato and Leek Quiche",
+          "Vegetarian Sausage Roll",
+          "BBQ Pulled Pork in Brioche Hot Dog Bun"
+        ],
+        "Sides": [
+          "Steak Cut Chips",
+          "Peas",
+          "Mixed Vegetables"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Spicy Beans, Chickpea and Sweet Potato Stew",
+          "Coley Fillet with Salsa",
+          "Roasted Chicken Breast with Pesto and Mozzarella",
+          "Sweet Pimento and Spinach Gnocchi"
+        ],
+        "Sides": [
+          "Baby Potatoes",
+          "Broccoli",
+          "Ratatouille"
+        ],
+        "Dessert": "Mango Cheesecake"
+      }
+    },
+    "Wednesday": {
+      "Lunch": {
+        "Soup": "Leek and Potato",
+        "Mains": [
+          "Penne Puttanesca",
+          "Chilli Beef Burrito",
+          "Battered Chicken with Sweet and Sour Sauce"
+        ],
+        "Sides": [
+          "Rice",
+          "Roasted Corn Mexicana",
+          "Sugar Snap Peas"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Vegetables and Veggie Chicken in Plum Sauce",
+          "Lamb Jalfrezi",
+          "Roasted Vegetable and Feta Crumble",
+          "Tuna and Sweetcorn Pasta Bake"
+        ],
+        "Sides": [
+          "Noodles",
+          "Bombay Potatoes",
+          "Carrots",
+          "Green Beans and Tomatoes"
+        ],
+        "Dessert": "Apple and Cinnamon Pie"
+      }
+    },
+    "Thursday": {
+      "Lunch": {
+        "Soup": "Green Pea, Garlic and Ginger",
+        "Mains": [
+          "Hoisin Mock-Duck Wrap",
+          "Macaroni Cheese",
+          "Salmon and Dill Fishcake"
+        ],
+        "Sides": [
+          "Potato Wedges",
+          "Sweetcorn",
+          "Carrots, Romano Beans and Broccoli Medley"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Roasted Chicken Breast with BBQ Sauce",
+          "Pork Stroganoff",
+          "Korean Sticky Cauliflower",
+          "Quorn Lasagne"
+        ],
+        "Sides": [
+          "Spring Onion Mash",
+          "Courgettes",
+          "Red Cabbage"
+        ],
+        "Dessert": "Coconut Basbousa Cake"
+      }
+    },
+    "Friday": {
+      "Lunch": {
+        "Soup": "Red Pepper and Tomato",
+        "Mains": [
+          "Broccoli Buffalo Wings",
+          "Beef Burger",
+          "Battered Cod"
+        ],
+        "Sides": [
+          "Steak Cut Chips",
+          "Peas",
+          "Carrots"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Vegetable and Quinoa Stuffed Pepper",
+          "Chicken Parmigiana",
+          "Vegetable and Butter Bean Moussaka",
+          "Meatball Sandwich"
+        ],
+        "Sides": [
+          "Saute Potatoes",
+          "Bulgar Wheat",
+          "Mixed Vegetables",
+          "Sugar Snap Peas"
+        ],
+        "Dessert": "Sticky Toffee Puddding"
+      }
+    },
+    "Saturday": {
+      "Lunch": {
+        "Soup": "Carrot and Coriander",
+        "Mains": [
+          "Lasagne",
+          "Chickpea and Vegetable Biryani",
+          "Pepper, Courgette and Bean Quesadilla"
+        ],
+        "Sides": [
+          "Sweet Potato Wedges",
+          "Green Beans",
+          "Spinach"
+        ],
+        "Dessert": "Chocolate Fudge Brownie"
+      },
+      "Dinner": null
+    },
+    "Sunday": {
+      "Lunch": {
+        "Soup": "Red Lentil and Tomato",
+        "Mains": [
+          "Roast Loin of Pork",
+          "Butternut Squash, Cranberry and Goat Cheese Wellington",
+          "Spinach and Sweet Potato Lentil Dhal"
+        ],
+        "Sides": [
+          "Roasted Baby Potatoes",
+          "Bulgar Wheat",
+          "Roasted Carrot and Parsnips"
+        ],
+        "Dessert": "Raspberry Pavlova"
+      },
+      "Dinner": null
+    }
+  },
+  "Week 4": {
+    "Monday": {
+      "Lunch": {
+        "Soup": "Leek and Mushroom",
+        "Mains": [
+          "Beetroot, Red Pepper and Quinoa Burger",
+          "Chicken Fajitas",
+          "Spinach and Sweet Potato Quiche"
+        ],
+        "Sides": [
+          "Steak Cut Chips",
+          "Peas"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Sausage + Bean Casserole",
+          "Vegetarian Chicken and Sweetcorn Pie",
+          "Honey, Mustard, Chili and Rosemary Chicken Breast",
+          "Gnocchi with Tomato, Spinach, Mushroom and Ricotta"
+        ],
+        "Sides": [
+          "Mashed Potato",
+          "Broccoli",
+          "Carrots"
+        ],
+        "Dessert": "Vanilla Rice Pudding"
+      }
+    },
+    "Tuesday": {
+      "Lunch": {
+        "Soup": "Broccoli",
+        "Mains": [
+          "Vegetarian Chilli Chicken and Vegetable Noodles",
+          "Chicken Tikka Flatbread",
+          "Vegetarian Meatballs and Tomato Sauce"
+        ],
+        "Sides": [
+          "Yellow Carrots, Romano Beans and Broccoli Medley",
+          "Pasta",
+          "Sweetcorn"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Steak Pie",
+          "Cauliflower, Chickpea and Pepper Goan Curry",
+          "Mince and Sweet Potato Pie",
+          "Salmon Fillet with Beetroot Salsa"
+        ],
+        "Sides": [
+          "Ratatouille",
+          "Lyonnaise Potatoes",
+          "Rice",
+          "Sauteed Seasonal Greens"
+        ],
+        "Dessert": "Banoffee Pie"
+      }
+    },
+    "Wednesday": {
+      "Lunch": {
+        "Soup": "Sweet Potato and Coconut",
+        "Mains": [
+          "Puy Lentil and Vegetable Bolognese",
+          "Beef Bolognese",
+          "Sausage Roll"
+        ],
+        "Sides": [
+          "Spaghetti",
+          "Corn on the Cob",
+          "Carrots"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Green Thai Vegetable Curry",
+          "Cajun Cauliflower with BBQ Beans",
+          "Ham, Leek and Mustard Pie",
+          "Chicken Provencal"
+        ],
+        "Sides": [
+          "Rice",
+          "Crushed Potatoes",
+          "Green Beans",
+          "Red Cabbage"
+        ],
+        "Dessert": "Jam Roll Poly"
+      }
+    },
+    "Thursday": {
+      "Lunch": {
+        "Soup": "Italian Vegetable",
+        "Mains": [
+          "Spring Rolls",
+          "Vegetarian Enchiladas",
+          "Roasted Cajun Chicken Leg"
+        ],
+        "Sides": [
+          "Mini Potato Rosti Bites",
+          "Sweetcorn",
+          "Spinach"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Cottage Pie",
+          "Mediterranean Vegetable Pasta",
+          "Chickpea and Mushroom Burger",
+          "Piri Piri Coley Fillet"
+        ],
+        "Sides": [
+          "Herb Dice Potatoes",
+          "Sauteed Courgettes",
+          "Carrots"
+        ],
+        "Dessert": "Carrot Cake"
+      }
+    },
+    "Friday": {
+      "Lunch": {
+        "Soup": "Tarka Dal",
+        "Mains": [
+          "Marinated Tofu and Kale Wrap",
+          "Margarita Pizza",
+          "Breaded Haddock Fillet"
+        ],
+        "Sides": [
+          "Garden Peas",
+          "Steak Cut Chips",
+          "Country Mixed Vegetables"
+        ],
+        "Dessert": null
+      },
+      "Dinner": {
+        "Mains": [
+          "Turkish Lamb Flatbread",
+          "Gnocchi, Roast Butternut Squash and Sage Butter",
+          "Edamame Bean, Asparagus and Garden Pea Risotto",
+          "Mango Chicken Breast"
+        ],
+        "Sides": [
+          "Vegetable Fries",
+          "Rice with Turmeric",
+          "Carrots",
+          "Sugar Snap Peas"
+        ],
+        "Dessert": "Dark Chocolate Croissant Pudding"
+      }
+    },
+    "Saturday": {
+      "Lunch": {
+        "Soup": "Sweetcorn and Noodle",
+        "Mains": [
+          "Vegan Chilli Nachos",
+          "Chilli Beef Enchilada"
+        ],
+        "Sides": [
+          "Sweet Potato Wedges",
+          "Roasted Corn Mexicana",
+          "Green Beans"
+        ],
+        "Dessert": "Rocky Road"
+      },
+      "Dinner": null
+    },
+    "Sunday": {
+      "Lunch": {
+        "Soup": "Tomato and Basil",
+        "Mains": [
+          "Sauteed Courgette, Tomato and Rocket Pesto Spaghetti",
+          "Crushed Minted Pea and Edamame Bean Bruschetta",
+          "Roast Turkey Breast"
+        ],
+        "Sides": [
+          "Yorkshire pudding",
+          "Roast Potatoes",
+          "Mixed Vegetables"
+        ],
+        "Dessert": "Mini Caramel Churros"
+      },
+      "Dinner": null
+    }
+  }
+}
