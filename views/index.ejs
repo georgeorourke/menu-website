@@ -1,11 +1,70 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><%= title %></title>
+
+    <!--Bootstrap-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel='stylesheet' href='/stylesheets/style.css' />
+
+    <title>Today's food</title>
   </head>
+  
   <body>
-    <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
+    
+    <h2>Lunch</h2>
+    
+    <% if (soup) { %>
+      <p> <b>Soup:</b> <%= soup %></p>
+     <% } %>
+
+    <p> <b>Mains:</b></p>
+    <ul class="list-group">
+      <% for (var i = 0; i < lunches.length; i++) { %>
+        <li class="list-group-item"> <%= lunches[i] %> </li>
+      <% } %>
+    </ul>
+
+    <p> <br> <b>Sides:</b> </p>
+
+    <ul class="list-group">
+      <% for (var i = 0; i < lsides.length; i++) { %>
+        <li class="list-group-item"> <%= lsides[i] %> </li>
+      <% } %>
+    </ul>
+
+    <% if (ldessert) { %>
+      <p> <br> <b>Dessert:</b> <%= ldessert %></p>
+     <% } %>
+
+
+
+    <h2> <br> Dinner</h2>
+    
+    <p> <b>Mains:</b></p>
+    <ul class="list-group">
+      <% for (var i = 0; i < dinners.length; i++) { %>
+        <li class="list-group-item"> <%= dinners[i] %> </li>
+      <% } %>
+    </ul>
+
+    <p> <br> <b>Sides:</b> </p>
+
+    <ul class="list-group">
+      <% for (var i = 0; i < dsides.length; i++) { %>
+        <li class="list-group-item"> <%= dsides[i] %> </li>
+      <% } %>
+    </ul>
+
+    <% if (ddessert) { %>
+      <p> <br> <b>Dessert:</b> <%= ddessert %></p>
+     <% } %>
+
+    <!--Bootstrap-->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
   </body>
 </html>
